@@ -121,7 +121,7 @@ const Sidebar = () => {
 
         </div> 
        <div className={styles.companyName}>
-       <Image src={logoo} alt = 'Jon Maurice Name' height={100} width={100}/> 
+       
        </div>
 
     </div>
